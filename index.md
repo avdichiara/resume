@@ -1,7 +1,7 @@
 # Resume
 ## Anthony DiCiara
 
-###### Contact Info:
+##### Contact Info:
 
 
 
