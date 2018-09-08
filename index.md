@@ -1,5 +1,5 @@
 # Resume
-## Anthony DiCiara
+## Anthony DiChiara
 
 #### Contact Info:
 [Email](mailto:avdichiara@gmail.com) [LinkedIn](https://www.linkedin.com/in/anthony-dichiara-41a318138/)
