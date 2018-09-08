@@ -16,4 +16,4 @@
 - 5+ years of coding
 
 #### Additional Skills
-- Competant at Photoshop and video editing
+- Competent at Photoshop and video editing
