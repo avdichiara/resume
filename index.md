@@ -2,7 +2,7 @@
 
 #### Contact Info:
 [Email](mailto:avdichiara@gmail.com), [LinkedIn](https://www.linkedin.com/in/anthony-dichiara-41a318138/)
-<a href="mailto:avdichiara@gmail.com" rel="some text">![Foo](https://png.icons8.com/color/1600/gmail.png=250x)</a>
+<a href="mailto:avdichiara@gmail.com" rel="some text">![Foo](https://png.icons8.com/color/1600/gmail.png =250x)</a>
 
 #### Education
 - Graduate of the Bishop's School in La Jolla, CA
