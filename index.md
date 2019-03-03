@@ -12,7 +12,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
   
   - Pursuing a B.S. in Computer Science
   
-  - Completed Coursework:
+  - Completed Courses:
      + Assembly & Computer Architecture
      + Java 1-3
      + Calculus 1-3
