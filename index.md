@@ -2,19 +2,33 @@
 
 ### Education
 #### MiraCosta College
-  - Enrolled: Fall 2017 - Present
+  - **Enrolled:** Fall 2017 - Present
   - Persuing a B.S. in Computer Science
 
 #### The Bishop's School (La Jolla, CA)
-  - Enrolled: Fall 2011 - Spring 2017
+  - **Enrolled:** Fall 2011 - Spring 2017
   - Completed most computer science classes offered
 
 ### Experience
-- **Primary Language:** Java
-- **Secondary Languages:** C#, Python
-- **Operating Systems:** OSX, Windows
-- **Programs:** Unity, UE4, XCode
-- 5+ years of coding
+#### Primary Languages
+- Java
+
+#### Secondary Languages
+- Python
+- C#
+
+#### Operating Systems
+- Windows
+- OSX
+
+#### Programs
+- Unity
+- UE4
+- XCode
+
+#### Knowledge
+- Over 5 years of coding experience
+
 
 ### Additional Skills
 - Capable of learning new skills quickly
