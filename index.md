@@ -1,7 +1,7 @@
 ## Anthony DiChiara
 
 #### Education
-- **Highschool:** Graduate of the Bishop's School in La Jolla, CA
+- **High School:** Graduate of the Bishop's School in La Jolla, CA
 - **College:** Persuing a B.S. in Computer Science at MiraCosta College (transfering in Fall 2019)
 
 #### Experience
