@@ -3,7 +3,7 @@
 ## Education
 #### MiraCosta College
   - **Enrolled:** Fall 2017 - Present
-  - Persuing a B.S. in Computer Science
+  - Pursuing a B.S. in Computer Science
 
 #### The Bishop's School (La Jolla, CA)
   - **Enrolled:** Fall 2011 - Spring 2017
