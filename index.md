@@ -6,7 +6,9 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 ## Education
 ---
 #### MiraCosta College
+
   - **Enrolled:** Fall 2017 - Present
+  
   - Pursuing a B.S. in Computer Science
   
   - Completed Coursework:
@@ -18,6 +20,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
      + Linear Algebra
 
 #### The Bishop's School (La Jolla, CA)
+
   - **Enrolled:** Fall 2011 - Spring 2017
   
   - Completed Coursework in:
