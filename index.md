@@ -58,8 +58,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 - Capable of learning new skills quickly
 - Competent at Photoshop and video editing
 - Detail oriented
-- Find creative solutions to problems
-- Logical
+- Logical and creative thinking (especially when it comes to problem solving)
 
 
 ## **Additional Interests**
