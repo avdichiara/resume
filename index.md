@@ -1,16 +1,30 @@
 ## Anthony DiChiara
 
+ I am a student at MiraCosta College, and I plan on transferring to a 4-year university in Fall 2019.
+My current goal is to work as a computer scientist in silicon valley and obtain a graduate degree in entrepreneurship.
+
 ## Education
 #### MiraCosta College
   - **Enrolled:** Fall 2017 - Present
   - Pursuing a B.S. in Computer Science
+  - Completed Coursework:
+   + Assembly & Computer Architecture
+   + Java 1-3
+   + Calculus 1-3
+   + Differential Equations
+   + Discrete Math
+   + Linear Algebra
 
 #### The Bishop's School (La Jolla, CA)
   - **Enrolled:** Fall 2011 - Spring 2017
-  - Completed most computer science classes offered
+  - Completed Coursework in:
+   + Java
+   + Python
+   + Web Development
+   + iOS Development
 
 ## Experience
-#### Primary Languages
+#### Primary Language
 - Java
 
 #### Secondary Languages
@@ -33,6 +47,14 @@
 ## Additional Skills
 - Capable of learning new skills quickly
 - Competent at Photoshop and video editing
+- Detail oriented
+- Find creative solutions to problems
+- Logical
+
+## Additional Interests
+- Drums
+- Politics
+- Sports cars
 
 ## Contact Info:
 
