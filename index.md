@@ -1,4 +1,4 @@
-## Anthony DiChiara
+## **Anthony DiChiara**
 
 I am a student at MiraCosta College, and I plan on transferring to a 4-year university in Fall 2019.
 My current goal is to work as a computer scientist in silicon valley and obtain a graduate degree in entrepreneurship.
