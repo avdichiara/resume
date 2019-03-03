@@ -5,10 +5,10 @@
 - Persuing a B.S. in Computer Science at MiraCosta College (transfering in Fall 2019)
 
 #### Experience
-- Primary Language: Java
-- Secondary Languages: C#, Python
-- Operating Systems: OSX, Windows
-- Programs: Unity, UE4, XCode
+**- Primary Language:** Java
+**- Secondary Languages:** C#, Python
+**- Operating Systems:** OSX, Windows
+**- Programs:** Unity, UE4, XCode
 - 5+ years of coding
 
 #### Additional Skills
