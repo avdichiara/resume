@@ -20,7 +20,7 @@
 - Competent at Photoshop and video editing
 
 ## Contact Info:
-- **Mobile:** (760)-458-8323
 <a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" rel="noopener noreferrer" target="_blank" width="48">
 <a href="https://www.linkedin.com/in/anthony-dichiara-41a318138/" rel="some text"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" rel="noopener noreferrer" target="_blank" width="48">
 <a href="https://github.com/avdichiara" rel="some text"><img src="http://icons.iconarchive.com/icons/icons8/windows-8/256/Programming-Github-icon.png" rel="noopener noreferrer" target="_blank" width="48">
+- **Mobile:** (760)-458-8323
