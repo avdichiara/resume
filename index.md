@@ -4,6 +4,7 @@
 ### MiraCosta College
 - Enrolled: Fall 2017 - Present
 - Persuing a B.S. in Computer Science
+
 ### The Bishop's School (La Jolla, CA)
 - Enrolled: Fall 2011 - Spring 2017
 - Completed most computer science classes offered
@@ -20,6 +21,7 @@
 - Competent at Photoshop and video editing
 
 ## Contact Info:
+
 ###### Mobile: (760)-458-8323
 <a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" rel="noopener noreferrer" target="_blank" width="48">
 <a href="https://www.linkedin.com/in/anthony-dichiara-41a318138/" rel="some text"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" rel="noopener noreferrer" target="_blank" width="48">
