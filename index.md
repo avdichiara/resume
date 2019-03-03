@@ -5,10 +5,10 @@
 - Persuing a B.S. in Computer Science at MiraCosta College (transfering in Fall 2019)
 
 #### Experience
-**- Primary Language:** Java
-**- Secondary Languages:** C#, Python
-**- Operating Systems:** OSX, Windows
-**- Programs:** Unity, UE4, XCode
+- **Primary Language:** Java
+- **Secondary Languages:** C#, Python
+- **Operating Systems:** OSX, Windows
+- **Programs:** Unity, UE4, XCode
 - 5+ years of coding
 
 #### Additional Skills
@@ -16,6 +16,6 @@
 - Competent at Photoshop and video editing
 
 #### Contact Info:
-<a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" target="_blank" width="48">
-<a href="https://www.linkedin.com/in/anthony-dichiara-41a318138/" rel="some text"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" target="_blank" width="48">
-<a href="https://github.com/avdichiara" rel="some text"><img src="http://icons.iconarchive.com/icons/icons8/windows-8/256/Programming-Github-icon.png" target="_blank" width="48">
+<a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" rel="noopener noreferrer" target="_blank" width="48">
+<a href="https://www.linkedin.com/in/anthony-dichiara-41a318138/" rel="some text"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" rel="noopener noreferrer" target="_blank" width="48">
+<a href="https://github.com/avdichiara" rel="some text"><img src="http://icons.iconarchive.com/icons/icons8/windows-8/256/Programming-Github-icon.png" rel="noopener noreferrer" target="_blank" width="48">
