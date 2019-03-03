@@ -1,26 +1,26 @@
 ## Anthony DiChiara
 
-#### Education
-###### MiraCosta College
+### Education
+#### MiraCosta College
   - Enrolled: Fall 2017 - Present
   - Persuing a B.S. in Computer Science
 
-###### The Bishop's School (La Jolla, CA)
+#### The Bishop's School (La Jolla, CA)
   - Enrolled: Fall 2011 - Spring 2017
   - Completed most computer science classes offered
 
-#### Experience
+### Experience
 - **Primary Language:** Java
 - **Secondary Languages:** C#, Python
 - **Operating Systems:** OSX, Windows
 - **Programs:** Unity, UE4, XCode
 - 5+ years of coding
 
-#### Additional Skills
+### Additional Skills
 - Capable of learning new skills quickly
 - Competent at Photoshop and video editing
 
-#### Contact Info:
+### Contact Info:
 
 ###### Mobile: (760)-458-8323
 <a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" rel="noopener noreferrer" target="_blank" width="48">
