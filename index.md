@@ -2,7 +2,7 @@
 
 #### Education
 - Graduate of the Bishop's School in La Jolla, CA
-- Persuing a B.S. in Computer Science at MiraCosta
+- Persuing a B.S. in Computer Science at MiraCosta College (transfering in Fall 2019)
 
 #### Experience
 - Primary Language: Java
@@ -12,8 +12,10 @@
 - 5+ years of coding
 
 #### Additional Skills
+- Capable of learning new skills quickly
 - Competent at Photoshop and video editing
 
 #### Contact Info:
 <a href="mailto:avdichiara@gmail.com" rel="some text"><img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Communication-gmail-icon.png" width="48">
 <a href="https://www.linkedin.com/in/anthony-dichiara-41a318138/" rel="some text"><img src="http://icons.iconarchive.com/icons/danleech/simple/256/linkedin-icon.png" width="48">
+<a href="https://github.com/avdichiara" rel="some text"><img src="http://icons.iconarchive.com/icons/icons8/windows-8/256/Programming-Github-icon.png" width="48">
