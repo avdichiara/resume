@@ -3,9 +3,10 @@
 I am a student at MiraCosta College, and I plan on transferring to a 4-year university in Fall 2019.
 My current goal is to work as a computer scientist in silicon valley and obtain a graduate degree in entrepreneurship.
 
+
 ## Education
 ---
-#### MiraCosta College
+### MiraCosta College
 
   - **Enrolled:** Fall 2017 - Present
   
@@ -19,7 +20,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
      + Discrete Math
      + Linear Algebra
 
-#### The Bishop's School (La Jolla, CA)
+### The Bishop's School (La Jolla, CA)
 
   - **Enrolled:** Fall 2011 - Spring 2017
   
@@ -29,25 +30,26 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
      + Web Development
      + iOS Development
 
+
 ## Experience
 ---
-#### Primary Language
+### Primary Language
 - Java
 
-#### Secondary Languages
+### Secondary Languages
 - Python
 - C#
 
-#### Operating Systems
+### Operating Systems
 - Windows
 - OSX
 
-#### Programs
+### Programs
 - Unity
 - UE4
 - XCode
 
-#### Knowledge
+### Knowledge
 - Over 5 years of coding experience
 
 
@@ -59,11 +61,13 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 - Find creative solutions to problems
 - Logical
 
+
 ## Additional Interests
 ---
 - Cars
 - Drums
 - Politics
+
 
 ## Contact Info:
 
