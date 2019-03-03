@@ -6,7 +6,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 
 ## Education
 ---
-### MiraCosta College
+### **MiraCosta College**
 
   - **Enrolled:** Fall 2017 - Present
   
