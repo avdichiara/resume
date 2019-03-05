@@ -65,7 +65,6 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 ---
 - Cars
 - Drums
-- Politics
 
 
 ## **Contact Info:**
