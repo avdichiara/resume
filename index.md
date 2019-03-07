@@ -42,7 +42,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 
 ### Operating Systems
 - Windows
-- OSX
+- OS X/macOS
 
 ### Programs
 - Unity
