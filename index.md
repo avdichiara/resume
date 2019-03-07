@@ -47,7 +47,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 ### Programs
 - Unity
 - UE4
-- XCode
+- Xcode
 
 ### Knowledge
 - Over 5 years of coding experience
