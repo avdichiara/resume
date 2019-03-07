@@ -64,7 +64,7 @@ My current goal is to work as a computer scientist in silicon valley and obtain 
 ## **Additional Interests**
 ---
 - Cars
-- Drums
+- Playing drums
 
 
 ## **Contact Info:**
