@@ -1,16 +1,22 @@
 ## Anthony DiChiara
 
-I am a student at MiraCosta College, and I plan on transferring to a 4-year university in Fall 2019.
+I am a new student at UC Santa Cruz who just transfered from MiraCosta College.
 My current goal is to work as a computer scientist in silicon valley and obtain a graduate degree in entrepreneurship.
 
 
 ## **Education**
 ---
-### MiraCosta College
+### UC Santa Cruz
 
-  - **Enrolled:** *Fall 2017 - Present*
+  - **Enrolled:** *Summer 2019 - Present*
   
   - Pursuing a B.S. in Computer Science
+
+### MiraCosta College
+
+  - **Enrolled:** *Fall 2017 - Summer 2019*
+  
+  - Associates Degree (AA): Computer Programming Fundamentals
   
   - Completed Courses:
      + Assembly & Computer Architecture
